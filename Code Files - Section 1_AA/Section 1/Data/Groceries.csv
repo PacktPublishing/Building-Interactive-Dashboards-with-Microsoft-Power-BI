@@ -1,0 +1,101 @@
+product_id,category_id,product_name,price
+1,3,Pepper - Yellow Bell,$6.18
+2,4,Sour Puss Raspberry,$35.93
+3,5,Beer - Corona,$38.16
+4,2,Gingerale - Diet - Schweppes,$78.09
+5,7,Tea - Lemon Green Tea,$37.11
+6,8,"Tart Shells - Savory, 4",$31.81
+7,2,"Wine - White, Ej",$43.57
+8,2,"Star Anise, Whole",$21.14
+9,5,Beer - Camerons Auburn,$15.21
+10,7,"Coke - Classic, 355 Ml",$31.46
+11,4,Cake - Sheet Strawberry,$36.90
+12,10,V8 - Berry Blend,$53.50
+13,8,Chip - Potato Dill Pickle,$54.94
+14,3,"Sole - Dover, Whole, Fresh",$17.42
+15,10,"Water - Mineral, Natural",$38.12
+16,3,Pork - Bacon Cooked Slcd,$73.22
+17,1,Mahi Mahi,$0.71
+18,7,"Ham - Smoked, Bone - In",$48.37
+19,8,Pate - Peppercorn,$17.68
+20,10,"Wine - White, Chardonnay",$40.84
+21,6,Beef - Tenderloin Tails,$9.37
+22,1,The Pop Shoppe - Root Beer,$1.03
+23,3,Eggplant - Asian,$31.89
+24,6,Creamers - 10%,$44.87
+25,6,Almonds Ground Blanched,$81.41
+26,10,Corn Shoots,$20.06
+27,4,Bagel - Everything,$28.97
+28,3,Rice - Sushi,$8.36
+29,2,Sauce - Mint,$81.81
+30,2,Potatoes - Parissienne,$28.06
+31,2,Glucose,$3.77
+32,9,Mace Ground,$40.69
+33,3,Dried Figs,$14.00
+34,3,Cheese - Roquefort Pappillon,$32.80
+35,10,"Ranchero - Primerba, Paste",$67.38
+36,9,Wood Chips - Regular,$77.49
+37,4,Alize Sunset,$32.79
+38,8,Cheese Cheddar Processed,$35.60
+39,3,Blouse / Shirt / Sweater,$7.92
+40,6,Truffle Shells - Semi - Sweet,$36.34
+41,6,Extract - Raspberry,$39.13
+42,3,Sauce - Hp,$39.94
+43,5,Cheese - St. Andre,$58.35
+44,5,Bagel - Whole White Sesame,$15.93
+45,4,"Pepper - Paprika, Hungarian",$52.57
+46,1,Aspic - Clear,$16.55
+47,5,Wine - Spumante Bambino White,$25.90
+48,4,"Beef - Tongue, Fresh",$17.29
+49,10,Wine - Redchard Merritt,$17.77
+50,3,Nut - Macadamia,$59.89
+51,1,Cookie Chocolate Chip With,$48.44
+52,4,Curry Paste - Madras,$78.30
+53,4,Lettuce - Spring Mix,$17.39
+54,6,Lemon Tarts,$49.33
+55,9,Bread - Multigrain Oval,$35.91
+56,10,Pepper - Chili Powder,$63.21
+57,9,"Doilies - 12, Paper",$32.58
+58,4,Mcguinness - Blue Curacao,$71.87
+59,9,Grapes - Green,$7.81
+60,2,The Pop Shoppe - Lime Rickey,$71.64
+61,2,"Vodka - Hot, Lnferno",$29.28
+62,4,Wheat - Soft Kernal Of Wheat,$54.82
+63,4,"Sugar - Brown, Individual",$3.21
+64,1,"Cup - 6oz, Foam",$48.28
+65,8,Wine - Red Oakridge Merlot,$82.79
+66,6,Bread - Italian Sesame Poly,$16.12
+67,5,Plasticforkblack,$7.21
+68,6,Wine - Alicanca Vinho Verde,$75.49
+69,7,Sauce - Caesar Dressing,$59.75
+70,10,Cake - Mini Cheesecake,$3.14
+71,2,Wine - Zonnebloem Pinotage,$11.78
+72,7,Energy Drink - Franks Pineapple,$16.10
+73,3,Jello - Assorted,$53.30
+74,3,"Cherries - Bing, Canned",$75.90
+75,10,Mushroom - King Eryingii,$35.33
+76,3,Corn Meal,$37.53
+77,3,Bread - Malt,$80.12
+78,4,Calypso - Lemonade,$72.19
+79,8,Pan Grease,$0.31
+80,4,Ecolab - Mikroklene 4/4 L,$40.88
+81,5,Vinegar - Red Wine,$26.67
+82,9,Cornstarch,$27.90
+83,8,Wine - Casillero Deldiablo,$8.79
+84,9,Fish - Bones,$76.11
+85,2,Red Currants,$62.51
+86,1,Creme De Cacao White,$23.74
+87,1,Artichokes - Jerusalem,$15.70
+88,2,Lamb - Shanks,$69.95
+89,7,Pumpkin - Seed,$27.92
+90,9,Wine - Magnotta - Cab Franc,$16.62
+91,10,Bread - Raisin Walnut Pull,$3.90
+92,9,Beef - Ground Medium,$34.26
+93,4,Pork - Inside,$45.26
+94,10,Hold Up Tool Storage Rack,$27.06
+95,5,"Wine - White, Colubia Cresh",$82.80
+96,2,Cheese - Le Cru Du Clocher,$35.95
+97,1,Rice - Wild,$30.89
+98,10,Glaze - Apricot,$63.15
+99,4,Longos - Grilled Salmon With Bbq,$16.22
+100,3,"Juice - Cranberry, 341 Ml",$13.72

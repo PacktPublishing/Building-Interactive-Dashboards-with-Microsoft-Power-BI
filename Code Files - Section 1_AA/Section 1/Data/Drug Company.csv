@@ -1,0 +1,101 @@
+company_id,company_name,country,city,address,ip_address
+1,Cardinal Health,Indonesia,Bun Barat,00 Lien Drive,61.216.77.184
+2,Guthy-Renker LLC,Brazil,Rio das Ostras,8 Lakeland Crossing,142.22.161.119
+3,Apotex Corp.,China,Xianbao,60 Basil Place,114.17.84.243
+4,Kroger Company,Russia,Engel’-Yurt,6 2nd Avenue,143.132.201.9
+5,"Johnson & Johnson Healthcare Products, Division of McNEIL-PPC, Inc.",Kosovo,Gjinoc,6537 Cordelia Hill,4.201.48.199
+6,"Genentech, Inc.",El Salvador,San Marcos,74 Reinke Junction,188.49.58.128
+7,"Blenheim Pharmacal, Inc.",Finland,Uurainen,29 Twin Pines Junction,245.38.137.227
+8,"NCS HealthCare of KY, Inc dba Vangard Labs",China,Shunling,16366 Jenifer Road,237.153.119.227
+9,"WestAir Gases & Equipment, Inc",Chile,La Unión,3139 Merry Park,210.221.19.162
+10,HOMEOLAB USA INC.,Portugal,Soure,186 Sherman Center,18.243.76.199
+11,REMEDYREPACK INC.,Nigeria,Yashikera,68 Dorton Plaza,54.70.43.115
+12,REMEDYREPACK INC.,China,Xinhua,30 Rutledge Point,53.194.40.221
+13,Actavis Elizabeth LLC,Thailand,Bo Phloi,995 Washington Drive,186.57.31.133
+14,"Rituals Cosmetics USA, Inc.",China,Ningxin,03162 Everett Circle,212.144.113.146
+15,"Nelco Laboratories, Inc.",Guyana,Mahaica Village,0465 Trailsway Trail,9.182.98.137
+16,Vi Jon,Finland,Vilppula,2999 Merrick Junction,193.228.85.48
+17,"Nelco Laboratories, Inc.",Canada,Saint-Bruno-de-Montarville,12 Brown Hill,70.139.40.191
+18,Sun Pharmaceutical Industries Limited,Pakistan,Mehrābpur,8055 Shoshone Way,30.3.159.188
+19,Cubist Pharmaceuticals U.S.,Philippines,Tigaon,9775 Sachs Crossing,7.172.127.41
+20,"Nelco Laboratories, Inc.",Philippines,Kiloloran,5471 Shasta Place,14.76.163.61
+21,Prasco Laboratories,Poland,Krynki,8742 Delladonna Pass,236.183.96.223
+22,Qualitest Pharmaceuticals,Botswana,Metsemotlhaba,30434 Sachs Circle,89.250.20.44
+23,State of Florida DOH Central Pharmacy,Bosnia and Herzegovina,Cazin,94948 Dennis Drive,114.164.170.158
+24,Pfizer Laboratories Div Pfizer Inc,Indonesia,Nusajaya,0588 Independence Road,185.138.140.148
+25,"Medimetriks Pharmaceuticals, Inc.",Philippines,Dologon,39669 Bartillon Pass,190.96.251.10
+26,"Physicians Total Care, Inc.",China,Huangsha,31399 Dwight Point,84.59.243.238
+27,"AvKARE, Inc.",Russia,Uralets,7 Hagan Lane,241.39.8.228
+28,"Greenbrier International, Inc.",China,Zhangbang,1 Ludington Plaza,199.166.141.235
+29,"NATURE REPUBLIC CO., LTD.",Portugal,Lagos da Beira,1 Novick Parkway,127.23.158.111
+30,Cardinal Health,Palestinian Territory,Old City,85 Ilene Road,152.3.100.26
+31,Jeun Cell Ltd,Venezuela,Caicara,3211 Spohn Parkway,129.192.96.5
+32,"Project, Inc.",Albania,Cerava,063 Macpherson Court,50.53.150.113
+33,"Inspire Pharmaceuticals, Inc.",China,Tianyu,57 Schiller Point,216.162.104.41
+34,Wal-Mart Stores Inc,Indonesia,Lamalewo,83 Mcbride Court,120.114.73.176
+35,A-S Medication Solutions LLC,Indonesia,Belung Satu,74991 Schurz Trail,159.9.201.69
+36,REMEDYREPACK INC.,Philippines,Ubay,8 Carioca Park,226.179.69.244
+37,Greenstone LLC,Poland,Raszków,87 Golf View Lane,103.230.110.236
+38,"Antigen Laboratories, Inc.",Sweden,Hägersten,28 Oxford Park,206.147.33.240
+39,Jubilant HollisterStier LLC,China,Wenqiao,5445 Mallard Court,192.23.193.192
+40,Aaron Industries Inc (SC),South Korea,Anseong,0 Warner Hill,166.212.176.121
+41,Ecolab Inc.,Jamaica,Saint Ann’s Bay,7 Corscot Lane,196.22.17.227
+42,SHISEIDO AMERICA INC.,Greece,Zográfos,02976 Kensington Junction,207.68.126.129
+43,GlaxoSmithKline LLC,France,Cherbourg-Octeville,4 Drewry Way,80.61.165.159
+44,BD Rx Inc.,Indonesia,Ujung,5 Mesta Road,54.164.223.99
+45,Triad Group,Uruguay,Florida,085 South Place,91.35.225.207
+46,Mylan Institutional LLC,Zimbabwe,Lalapanzi,2 Lawn Road,247.187.166.25
+47,"Menper Distributors, Inc.",Indonesia,Kubang,69624 Di Loreto Pass,169.150.187.135
+48,Zenith Medicosm SL,Iran,Saqqez,19402 Stephen Plaza,178.169.212.29
+49,"ALK-Abello, Inc.",Thailand,Sa Kaeo,5631 Stuart Court,91.197.207.170
+50,"TONYMOLY CO., LTD.",Armenia,Verin Dvin,10 Hoffman Plaza,46.93.248.129
+51,Cardinal Health,Indonesia,Bunutan,88536 Butterfield Trail,233.133.25.156
+52,"Fenwal, Inc.",Russia,Sergeyevka,8 Manitowish Way,255.181.73.35
+53,Sandoz Inc,China,Zuhu,43129 Lukken Hill,94.80.148.75
+54,Jubilant HollisterStier LLC,Canada,Burgeo,9074 Golf Course Terrace,71.22.203.56
+55,Eli Lilly and Company,Brazil,Montenegro,4 Veith Center,14.241.248.255
+56,"Nelco Laboratories, Inc.",Russia,Tbilisskaya,5864 Thackeray Plaza,124.138.221.3
+57,"Falcon Pharmaceuticals, Ltd.",Jamaica,Lionel Town,4 Grasskamp Street,36.89.71.140
+58,"Allermed Laboratories, Inc.",Bulgaria,Pŭrvomaytsi,57934 Fremont Park,145.219.15.128
+59,"Premier Value (Chain Drug Consortium, LLC)",Philippines,Nalsian Norte,513 Loftsgordon Avenue,255.25.88.20
+60,GlaxoSmithKline Consumer Healthcare LP,Indonesia,Pakusari,9 Village Green Lane,33.202.225.252
+61,Keen Compressed Gas Co. Inc.,Brazil,Itapagé,93162 Melby Avenue,157.111.70.28
+62,"CCA Industries, Inc.",Sweden,Täby,9187 Summerview Road,105.86.200.93
+63,"SHISEIDO CO., LTD.",Russia,Kuytun,414 Center Crossing,55.230.87.121
+64,"Kingdom Animalia, LLC DBA Hourglass Cosmetics",Russia,Kovrov,06 Carberry Junction,76.82.79.230
+65,"PMC TRADE, EXPORT AND IMPORT",China,Xiacaoqiao,184 Macpherson Street,172.180.85.221
+66,Wakefern Food Corporation,Guatemala,Santa Cruz La Laguna,49382 Menomonie Park,119.107.191.99
+67,Apotheca Company,Ukraine,Brusyliv,98068 Marquette Circle,31.22.70.165
+68,Meijer Distribution Inc,Nigeria,Ore,6560 Sachtjen Drive,168.146.100.30
+69,King Bio Inc.,Poland,Boleszkowice,2118 Coolidge Trail,196.188.218.69
+70,Sandoz Inc,Serbia,Samoljica,6607 Barby Plaza,28.111.6.155
+71,Rebel Distributors Corp,Indonesia,Pacet,03949 Coleman Road,174.165.43.69
+72,"Glenmark Generics Inc., USA",Philippines,Ajuy,689 Old Gate Point,84.170.213.43
+73,Dr. Reddy's Laboratories Limited,Indonesia,Baun,515 Randy Center,70.230.239.184
+74,"IGI Labs, Inc.",Poland,Mieszkowice,3 Nova Plaza,80.236.232.136
+75,Lake Erie Medical DBA Quality Care Products LLC,Brazil,São Gonçalo do Sapucaí,02859 Carey Pass,247.150.103.155
+76,Equaline,Indonesia,Kalimeneng,805 Schlimgen Center,56.160.67.155
+77,"Nelco Laboratories, Inc.",Mongolia,Tsagaan-Ovoo,156 Little Fleur Point,120.169.184.196
+78,"PD-Rx Pharmaceuticals, Inc.",Russia,El’brus,125 Tomscot Pass,250.8.126.137
+79,"General Injectables & Vaccines, Inc",Philippines,Dulian,92 Manley Point,98.14.206.42
+80,"Nelco Laboratories, Inc.",Indonesia,Deranitan,68 Orin Crossing,83.132.224.175
+81,RedPharm Drug Inc.,Iran,Shūsh,94 Jackson Alley,104.248.179.33
+82,Mylan Pharmaceuticals Inc.,Colombia,Zarzal,27503 Main Hill,192.77.14.24
+83,CLINIQUE LABORATORIES INC.,Russia,Cherga,72337 Bonner Hill,159.148.134.65
+84,ViiV Healthcare Company,Brazil,Espumoso,2 Shopko Trail,137.34.202.167
+85,Lake Erie Medical DBA Quality Care Products LLC,Colombia,La Unión,29961 Merrick Trail,46.114.90.151
+86,Western Family Foods Inc,Poland,Oksa,4 Reindahl Parkway,30.76.249.216
+87,"Church & Dwight Co., Inc.",Finland,Hartola,3 Golf Terrace,80.170.168.195
+88,"Group Practice Solutions, Inc.",China,Gaobu,74 Waxwing Alley,24.112.9.252
+89,RedPharm Drug Inc.,Ukraine,Kopayhorod,23 Tomscot Place,231.118.105.110
+90,"Nelco Laboratories, Inc.",Sweden,Kopparberg,97480 Becker Pass,240.21.13.219
+91,"ALK-Abello, Inc.",Madagascar,Miandrivazo,49760 Vermont Center,176.220.95.129
+92,Carilion Materials Management,China,Xinqiao,01 Randy Lane,25.247.70.59
+93,BluePoint Laboratories,China,Xiaoshun,1 Prairieview Terrace,163.138.213.70
+94,Clinical Solutions Wholesale,Philippines,San Vicente,82311 Ruskin Trail,144.148.223.252
+95,"PD-Rx Pharmaceuticals, Inc.",Somalia,Berbera,270 Milwaukee Court,86.83.34.8
+96,"Physicians Total Care, Inc.",Russia,Buturlinovka,666 Old Gate Street,185.146.95.243
+97,Rebel Distributors Corp.,Greece,Tílisos,9517 Bartillon Way,144.111.12.134
+98,Novartis Pharmaceuticals Corporation,United States,Columbia,92575 Ruskin Road,111.149.236.51
+99,"Antigen Laboratories, Inc.",Honduras,Armenta,83019 Eastwood Park,29.255.178.68
+100,Sun Pharma Global FZE,Hungary,Budapest,5 Crescent Oaks Hill,109.133.189.140
